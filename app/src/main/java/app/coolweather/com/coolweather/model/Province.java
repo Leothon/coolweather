@@ -4,6 +4,7 @@ package app.coolweather.com.coolweather.model;
  * Created by 10483 on 2016/11/2.
  */
 public class Province {
+
     private int id;
     private String provinceName;
     private String provinceCode;
